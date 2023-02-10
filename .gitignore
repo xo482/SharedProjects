@@ -1,0 +1,7 @@
+/Share/Saved
+/Share/Intermediate
+/Share/.vs
+/Share/Build
+/Share/Plugins
+*.sln
+*_BuiltData.uasset
